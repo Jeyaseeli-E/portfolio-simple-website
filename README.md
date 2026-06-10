@@ -1,17 +1,38 @@
-#My Portfolio Website
+# Portfolio Simple Website
 
-A simple personal portfolio website built using HTML and CSS. The website includes a Home page to introduce myself and a Contact page for communication details. This project was created to practice basic web design and front-end development concepts.
+A simple personal portfolio website created using HTML and CSS. This website showcases basic web development skills with a clean and user-friendly design.
 
-#Technologies Used:
+## Features
 
-HTML5
-CSS3
+- Home Page
+- Contact Page
+- Simple Navigation
+- Responsive Layout
+- Clean User Interface
 
-#Features:
+## Technologies Used
 
-Home Page
-Contact Page
-Simple and clean design
-Easy navigation
+- HTML5
+- CSS3
 
-Thank you for visiting my portfolio!
+## Project Structure
+
+portfolio-simple-website/
+│
+├── index.html
+├── contact.html
+├── style.css
+└── README.md
+
+## Live Demo
+
+Visit the website:
+https://jeyaseeli-e.github.io/portfolio-simple-website/
+
+## Purpose
+
+This project was developed to practice front-end web development fundamentals and learn how to deploy a website using GitHub Pages.
+
+## Author
+
+Jeyaseeli
